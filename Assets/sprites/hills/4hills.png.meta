@@ -1,0 +1,183 @@
+fileFormatVersion: 2
+guid: e2ca90a5efa904bd0a56da698c5175d8
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: 4hills_0
+    21300002: 4hills_1
+    21300004: 4hills_2
+    21300006: 4hills_3
+    21300008: 4hills_4
+    21300010: 4hills_5
+    21300012: 4hills_6
+    21300014: 4hills_7
+    21300016: 4hills_8
+    21300018: 4hills_9
+    21300020: 4hills_10
+    21300022: 4hills_11
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: -1
+    aniso: 1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings:
+  - buildTarget: iPhone
+    maxTextureSize: 1024
+    textureFormat: -2
+    compressionQuality: 50
+  spriteSheet:
+    sprites:
+    - name: 4hills_0
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 594
+        width: 348
+        height: 146
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 4hills_1
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 584
+        width: 520
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 4hills_2
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 499
+        width: 328
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 4hills_3
+      rect:
+        serializedVersion: 2
+        x: 561
+        y: 430
+        width: 436
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 4hills_4
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 266
+        width: 383
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 4hills_5
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 159
+        width: 478
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 4hills_6
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 129
+        width: 443
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 4hills_7
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 56
+        width: 302
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 4hills_8
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 24
+        width: 284
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 4hills_9
+      rect:
+        serializedVersion: 2
+        x: 679
+        y: 8
+        width: 345
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 4hills_10
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 266
+        width: 384
+        height: 125
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 4hills_11
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 396
+        width: 425
+        height: 113
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 

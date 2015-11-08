@@ -1,0 +1,69 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{2CA74EAC-F0E9-FBA3-4057-73DD1CD2640F}") = "ocoee river trail", "Assembly-CSharp-firstpass.csproj", "{343B2366-D7CF-0B70-7EBF-7A92C9B58198}"
+EndProject
+Project("{2CA74EAC-F0E9-FBA3-4057-73DD1CD2640F}") = "ocoee river trail", "Assembly-CSharp.csproj", "{1694996A-BC0A-04F1-3C86-765BC680C413}"
+EndProject
+Project("{2CA74EAC-F0E9-FBA3-4057-73DD1CD2640F}") = "ocoee river trail", "Assembly-CSharp-Editor.csproj", "{0F808974-C251-C5FC-0873-70CCEDA3B6FF}"
+EndProject
+Project("{2CA74EAC-F0E9-FBA3-4057-73DD1CD2640F}") = "ocoee river trail", "Assembly-Boo.booproj", "{3F8B4088-CA58-3AE7-DDC5-D59CECC24062}"
+EndProject
+Project("{2CA74EAC-F0E9-FBA3-4057-73DD1CD2640F}") = "ocoee river trail", "Assembly-UnityScript-firstpass.unityproj", "{DEF63C58-56F8-E9F9-1C5B-BEB7FB9DDAFD}"
+EndProject
+Project("{2CA74EAC-F0E9-FBA3-4057-73DD1CD2640F}") = "ocoee river trail", "Assembly-UnityScript.unityproj", "{7E6F360B-F2FC-93EE-E550-4B196AFAFD41}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{343B2366-D7CF-0B70-7EBF-7A92C9B58198}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{343B2366-D7CF-0B70-7EBF-7A92C9B58198}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{343B2366-D7CF-0B70-7EBF-7A92C9B58198}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{343B2366-D7CF-0B70-7EBF-7A92C9B58198}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1694996A-BC0A-04F1-3C86-765BC680C413}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1694996A-BC0A-04F1-3C86-765BC680C413}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1694996A-BC0A-04F1-3C86-765BC680C413}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1694996A-BC0A-04F1-3C86-765BC680C413}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0F808974-C251-C5FC-0873-70CCEDA3B6FF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0F808974-C251-C5FC-0873-70CCEDA3B6FF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0F808974-C251-C5FC-0873-70CCEDA3B6FF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0F808974-C251-C5FC-0873-70CCEDA3B6FF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3F8B4088-CA58-3AE7-DDC5-D59CECC24062}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3F8B4088-CA58-3AE7-DDC5-D59CECC24062}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3F8B4088-CA58-3AE7-DDC5-D59CECC24062}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3F8B4088-CA58-3AE7-DDC5-D59CECC24062}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DEF63C58-56F8-E9F9-1C5B-BEB7FB9DDAFD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DEF63C58-56F8-E9F9-1C5B-BEB7FB9DDAFD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DEF63C58-56F8-E9F9-1C5B-BEB7FB9DDAFD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DEF63C58-56F8-E9F9-1C5B-BEB7FB9DDAFD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7E6F360B-F2FC-93EE-E550-4B196AFAFD41}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7E6F360B-F2FC-93EE-E550-4B196AFAFD41}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7E6F360B-F2FC-93EE-E550-4B196AFAFD41}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7E6F360B-F2FC-93EE-E550-4B196AFAFD41}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+																																																																																																																																		GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+		Policies = $0
+		$0.TextStylePolicy = $1
+		$1.inheritsSet = null
+		$1.scope = text/x-csharp
+		$0.CSharpFormattingPolicy = $2
+		$2.inheritsSet = Mono
+		$2.inheritsScope = text/x-csharp
+		$2.scope = text/x-csharp
+		$0.TextStylePolicy = $3
+		$3.FileWidth = 120
+		$3.TabWidth = 4
+		$3.EolMarker = Unix
+		$3.inheritsSet = Mono
+		$3.inheritsScope = text/plain
+		$3.scope = text/plain
+	EndGlobalSection
+
+EndGlobal

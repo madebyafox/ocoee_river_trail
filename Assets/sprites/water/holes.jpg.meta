@@ -1,0 +1,161 @@
+fileFormatVersion: 2
+guid: c3dcb3e08884f4e619a76077b0200cee
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: holes_0
+    21300002: holes_1
+    21300004: holes_2
+    21300006: holes_3
+    21300008: holes_4
+    21300010: holes_5
+    21300012: holes_6
+    21300014: holes_7
+    21300016: holes_8
+    21300018: holes_9
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: -1
+    aniso: 1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings:
+  - buildTarget: iPhone
+    maxTextureSize: 1024
+    textureFormat: -2
+    compressionQuality: 50
+  spriteSheet:
+    sprites:
+    - name: holes_0
+      rect:
+        serializedVersion: 2
+        x: 572
+        y: 656
+        width: 279
+        height: 43
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: holes_1
+      rect:
+        serializedVersion: 2
+        x: 570
+        y: 566
+        width: 312
+        height: 65
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: holes_2
+      rect:
+        serializedVersion: 2
+        x: 575
+        y: 442
+        width: 221
+        height: 95
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: holes_3
+      rect:
+        serializedVersion: 2
+        x: 517
+        y: 319
+        width: 281
+        height: 116
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: holes_4
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 209
+        width: 233
+        height: 98
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: holes_5
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 178
+        width: 167
+        height: 124
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: holes_6
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 70
+        width: 226
+        height: 86
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: holes_7
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 341
+        width: 149
+        height: 134
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: holes_8
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 590
+        width: 216
+        height: 97
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: holes_9
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 398
+        width: 103
+        height: 103
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 

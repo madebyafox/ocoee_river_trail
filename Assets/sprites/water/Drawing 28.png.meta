@@ -1,0 +1,227 @@
+fileFormatVersion: 2
+guid: af6d665b60978478388380e36a80d268
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Drawing 28_0
+    21300002: Drawing 28_1
+    21300004: Drawing 28_2
+    21300006: Drawing 28_3
+    21300008: Drawing 28_4
+    21300010: Drawing 28_5
+    21300012: Drawing 28_6
+    21300014: Drawing 28_7
+    21300016: Drawing 28_8
+    21300018: Drawing 28_9
+    21300020: Drawing 28_10
+    21300022: Drawing 28_11
+    21300024: Drawing 28_12
+    21300026: Drawing 28_13
+    21300028: Drawing 28_14
+    21300030: Drawing 28_15
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: -1
+    aniso: 1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings:
+  - buildTarget: iPhone
+    maxTextureSize: 1024
+    textureFormat: -2
+    compressionQuality: 50
+  spriteSheet:
+    sprites:
+    - name: Drawing 28_0
+      rect:
+        serializedVersion: 2
+        x: 811
+        y: 870
+        width: 101
+        height: 115
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Drawing 28_1
+      rect:
+        serializedVersion: 2
+        x: 564
+        y: 829
+        width: 112
+        height: 180
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Drawing 28_2
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 888
+        width: 365
+        height: 88
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Drawing 28_3
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 432
+        width: 86
+        height: 370
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Drawing 28_4
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 312
+        width: 272
+        height: 112
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Drawing 28_5
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 52
+        width: 151
+        height: 124
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Drawing 28_6
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 1
+        width: 99
+        height: 167
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Drawing 28_7
+      rect:
+        serializedVersion: 2
+        x: 614
+        y: 34
+        width: 97
+        height: 138
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Drawing 28_8
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 67
+        width: 209
+        height: 207
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Drawing 28_9
+      rect:
+        serializedVersion: 2
+        x: 814
+        y: 360
+        width: 108
+        height: 59
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Drawing 28_10
+      rect:
+        serializedVersion: 2
+        x: 632
+        y: 336
+        width: 114
+        height: 79
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Drawing 28_11
+      rect:
+        serializedVersion: 2
+        x: 537
+        y: 411
+        width: 88
+        height: 101
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Drawing 28_12
+      rect:
+        serializedVersion: 2
+        x: 652
+        y: 485
+        width: 142
+        height: 75
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Drawing 28_13
+      rect:
+        serializedVersion: 2
+        x: 905
+        y: 579
+        width: 55
+        height: 110
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Drawing 28_14
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 632
+        width: 517
+        height: 89
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Drawing 28_15
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 501
+        width: 215
+        height: 107
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
